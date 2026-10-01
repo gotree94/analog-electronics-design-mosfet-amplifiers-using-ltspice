@@ -1,7 +1,3 @@
-# analog-electronics-design-mosfet-amplifiers-using-ltspice
-https://www.udemy.com/course/analog-electronics-design-mosfet-amplifiers-using-ltspice/
-
-
 # Analog Electronics: Design MOSFET Amplifiers using LTspice — 강좌 정리
 
 > **출처**: Udemy (https://www.udemy.com/course/analog-electronics-design-mosfet-amplifiers-using-ltspice/)
